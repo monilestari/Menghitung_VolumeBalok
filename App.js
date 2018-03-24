@@ -22,7 +22,7 @@ export default class HitungVolumeBalok extends Component {
     return (
       <View style={{ flex: 1, backgroundColor: '#D1C4E9' }}>
 
-        <View style={{ backgroundColor: 'purple', height: 24 }} />
+        <View style={{ backgroundColor: '#673AB7', height: 24 }} />
         <View style={{ backgroundColor: '#673AB7' }}>
            <Text style={{ padding: 10, fontSize: 20, color: 'white', textAlign: 'center' }}>
             Menghitung Volume Balok
